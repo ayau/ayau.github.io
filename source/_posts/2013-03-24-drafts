@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Plan your free time"
+date: 2013-03-23 14:02
+comments: true
+published: false
+categories: 
+---
+
+Content
+= 
+
+I'll be sharing some random thoughts and theories that I come up with as well as my experiences on topics such as -
+
+- Computer science and math
+- Android development
+- Music
+- Parkour
+- Soccer
+Longboard
+
+
+
+
+Topics --
+    Seating
+    Writing with left hand
+    Learning Spanish
+    Studying Psyc the night before
+    Learning and memory
+
+
+Recently getting back to animating
+
+
+Small android optimization techniques
+
+- Don't do new Fragment()
+more memory but faster?
+
+
+Demoing app
+- what does this do? tap tap tap 
+- clicks random (doesn't really test app)
+- You broke it. This doesn't work.
