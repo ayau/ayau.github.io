@@ -2,19 +2,25 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://ayau.github.com/blog/2013/03/21/hello-world/</loc>
-        <lastmod>2013-03-24T01:30:12-04:00</lastmod>
+        <lastmod>2013-03-24T15:07:53-04:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://ayau.github.com/blog/2013/03/26/technical-interviews-for-the-typical-college-student/
+        </loc>
+        <lastmod>2013-03-26T00:17:53-04:00</lastmod>
     </url>
     <url>
         <loc>http://ayau.github.com/archives/</loc>
-        <lastmod>2013-03-24T01:30:12-04:00</lastmod>
+        <lastmod>2013-03-26T00:17:53-04:00</lastmod>
     </url>
     <url>
         <loc>http://ayau.github.com/blog/archives/</loc>
-        <lastmod>2013-03-24T01:30:12-04:00</lastmod>
+        <lastmod>2013-03-26T00:17:53-04:00</lastmod>
     </url>
     <url>
         <loc>http://ayau.github.com/</loc>
-        <lastmod>2013-03-24T01:30:37-04:00</lastmod>
+        <lastmod>2013-03-26T00:17:53-04:00</lastmod>
     </url>
     <url>
         <loc>http://ayau.github.com/robots.txt</loc>
