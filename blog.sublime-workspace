@@ -1,0 +1,614 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"explored",
+				"exploredAroundGold"
+			],
+			[
+				"list-",
+				"list-style"
+			],
+			[
+				"fd",
+				"fd_table"
+			],
+			[
+				"str",
+				"strcpy"
+			],
+			[
+				"template_",
+				"template_unsubscribed"
+			],
+			[
+				"A",
+				"Avenir"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"programs",
+				"programs"
+			],
+			[
+				"lol",
+				"lol"
+			],
+			[
+				"ul",
+				"url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/_posts/2013-03-21-hello-world.markdown",
+			"settings":
+			{
+				"buffer_size": 3334,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_posts/2013-03-24-drafts",
+			"settings":
+			{
+				"buffer_size": 720,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_posts/2013-03-22-smooth-scrolling-for-horizontalscrollview.markdown",
+			"settings":
+			{
+				"buffer_size": 1780,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_posts/2013-03-23-plan-your-free-time.markdown",
+			"settings":
+			{
+				"buffer_size": 1244,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alexyau/Documents/octopress/_config.yml",
+		"/Users/alexyau/Documents/octopress/source/_includes/head.html",
+		"/Users/alexyau/Documents/octopress/source/index.html",
+		"/Users/alexyau/Documents/octopress/public/index.html",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/_hotchoco.scss",
+		"/Users/alexyau/Documents/octopress/source/_includes/custom/navigation.html",
+		"/Users/alexyau/Documents/octopress/source/about/index.html",
+		"/Users/alexyau/Documents/octopress/source/archives/index.html",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/source/_includes/header.html",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/screen.scss",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/source/_includes/post/sharing.html",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/source/_includes/after_footer.html",
+		"/Users/alexyau/Documents/octopress/source/_includes/custom/footer.html",
+		"/Users/alexyau/Documents/octopress/source/_includes/footer.html",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/base/_color.scss",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/source/_includes/article.html",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/parts/_syntax.scss",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/parts/_header.scss",
+		"/Users/alexyau/Documents/octopress/public/stylesheets/screen.css",
+		"/Users/alexyau/Documents/octopress/sass/parts/_syntax.scss",
+		"/Users/alexyau/Documents/octopress/source/stylesheets/screen.css",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/parts/_archive.scss",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/base/_layout.scss",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/parts/_article.scss",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/parts/_post.scss",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/parts/_comment.scss",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/_parts.scss",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/source/_includes/archive_post.html",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/parts/_index.scss",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/_base.scss",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/source/_layouts/default.html",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/source/_includes/navigation.html",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/source/_includes/banner.html",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/source/_includes/footer.html",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/README.md",
+		"/Users/alexyau/Documents/octopress/.themes/hotchoco/sass/_greyshade.scss",
+		"/Users/alexyau/Documents/Upenn/career/quora/makefile",
+		"/Users/alexyau/Documents/Upenn/career/FindTheBest/files/challenge.js",
+		"/Users/alexyau/Documents/Upenn/cis371/hw1/hw1/code-O3-unrolled-vector-openmp",
+		"/Users/alexyau/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/alexyau/Documents/chalktheorybandits/config/application.rb",
+		"/Users/alexyau/Documents/chalktheorybandits/config/routes.rb",
+		"/Users/alexyau/Documents/chalktheorybandits/app/views/pages/concerts.html",
+		"/Users/alexyau/Documents/chalktheorybandits/app/views/pages/performers.html",
+		"/Users/alexyau/Documents/chalktheorybandits/Gemfile",
+		"/Users/alexyau/Documents/chalktheorybandits/app/assets/stylesheets/application.css",
+		"/Users/alexyau/Documents/chalktheorybandits/.gitignore",
+		"/Users/alexyau/Documents/bucketlist/Gemfile",
+		"/Users/alexyau/Documents/bucketlist/config/routes.rb",
+		"/Users/alexyau/Documents/bucketlist/db/schema.rb",
+		"/Users/alexyau/Documents/bucketlist/app/controllers/sessions_controller.rb",
+		"/Users/alexyau/Documents/bucketlist/app/controllers/application_controller.rb",
+		"/Users/alexyau/Documents/bucketlist/app/helpers/sessions_helper.rb",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/goals/achieved_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/goals/achieved_goal_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/goals/achieved.jst.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/goals/achieved_goal.jst.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/goals/current_goal_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/users_show.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/goals/form_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/goals/current.jst.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/models/user.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/goals/bucket_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/goals/choose.jst.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/goals/current_goal.jst.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/goals/form.jst.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/controllers/events_controller.rb",
+		"/Users/alexyau/Documents/bucketlist/app/controllers/svg_controller.rb",
+		"/Users/alexyau/Documents/bucketlist/app/models/user.rb",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/goals/choose_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/goals/subgoal.jst.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/assets/stylesheets/events.css.scss",
+		"/Users/alexyau/Documents/bucketlist/app/assets/stylesheets/goals.css.scss",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/goals/current_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/goals/edit_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/users/bucket_helper_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/views/goals/show.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/events/form_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/views/events/_event.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/events/form.jst.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/events/form.js.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/views/events/_form.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/goals/bucket.jst.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/goals/goal_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/routers/users_router.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/goals/goal_form_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/bucketlist.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/users/bucket_helper.jst.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/layout/bucket_helper_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/views/layout/header_view.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/backbone/templates/layout/header.jst.ejs",
+		"/Users/alexyau/Documents/bucketlist/app/views/layouts/application.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/controllers/goals_controller.rb",
+		"/Users/alexyau/Documents/bucketlist/app/views/pages/home.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/assets/stylesheets/pages.css.scss",
+		"/Users/alexyau/Documents/bucketlist/app/views/users/show.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/controllers/users_controller.rb",
+		"/Users/alexyau/Documents/bucketlist/app/models/goal.rb",
+		"/Users/alexyau/Documents/bucketlist/app/views/goals/_subgoal.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/views/goals/_current_goal.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/views/goals/_goal.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/views/goals/_quickform.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/views/goals/_form.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/goal_form.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/README.md",
+		"/Users/alexyau/Documents/bucketlist/config/environments/production.rb",
+		"/Users/alexyau/Documents/bucketlist/db/migrate/20121229074516_create_commitments.rb",
+		"/Users/alexyau/Documents/bucketlist/db/migrate/20121223012137_add_description_to_goals.rb",
+		"/Users/alexyau/Documents/bucketlist/db/migrate/20121223015842_add_auto_add_to_users.rb",
+		"/Users/alexyau/Documents/bucketlist/app/views/users/achievements.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/views/goals/achievements.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/helpers/svg_helper.rb",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/event_form.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/assets/stylesheets/application.css.scss",
+		"/Users/alexyau/Documents/bucketlist/app/assets/stylesheets/users.css.scss",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/goals_show.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/models/notification.rb",
+		"/Users/alexyau/Documents/bucketlist/db/migrate/20130102054001_create_notifications.rb",
+		"/Users/alexyau/Documents/bucketlist/app/models/notifications.rb",
+		"/Users/alexyau/Documents/bucketlist/app/views/events/edit.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/models/event.rb",
+		"/Users/alexyau/Documents/bucketlist/db/migrate/20130101161253_add_avatar_to_users.rb",
+		"/Users/alexyau/Documents/bucketlist/config/environment.rb",
+		"/Users/alexyau/Documents/bucketlist/app/views/goals/edit.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/assets/javascripts/global/goals_edit.js.coffee",
+		"/Users/alexyau/Documents/bucketlist/app/views/goals/choose_subgoal.html.erb",
+		"/Users/alexyau/Documents/bucketlist/app/models/commitment.rb",
+		"/Users/alexyau/Documents/bucketlist/app/views/pages/permission_denied.html.erb"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"subtitle",
+			"banner",
+			"color-font",
+			"color-gray01",
+			"gray01",
+			"subtitle",
+			"pagenavi",
+			"nav",
+			"main-nav",
+			"date",
+			".inner",
+			"mid-col",
+			"whitesmoke",
+			"inner",
+			"greyshade",
+			"// }",
+			"if (ce",
+			"100",
+			"command",
+			"pickup",
+			"pathFind",
+			"findPath",
+			"node,",
+			"node",
+			"goldX",
+			"goal",
+			"goldX",
+			"gold",
+			"this",
+			"console.log",
+			"pathFind",
+			"cell",
+			"done",
+			"&& Math.a",
+			"&& Math.abs(",
+			"score ++",
+			"x]",
+			"score ++",
+			"[j",
+			"[i",
+			"i",
+			"style=\"text-decoration:none\"",
+			"article",
+			"achiev",
+			"randHex",
+			"pick",
+			"push",
+			"RYB.",
+			"RYB",
+			"createGoal",
+			"submit",
+			"badgeLogo",
+			".find('svg')",
+			"$('.badge-preview').",
+			"demo",
+			"rand",
+			"new_event",
+			"close",
+			"success",
+			"eventDetails",
+			"month_time",
+			".new_event",
+			"current",
+			"$('.snapped-badge')",
+			"@el",
+			"bhelper",
+			"h3",
+			"    ",
+			"-",
+			"    -",
+			"badge",
+			"badge_select",
+			"ajax",
+			"console.log",
+			"font-size:",
+			"optionsExtended",
+			"optionsEx",
+			"badgeOpened",
+			"-->",
+			"actor",
+			"partial",
+			".top",
+			"top",
+			"300px",
+			"Goal",
+			"goal",
+			"12",
+			".complete",
+			"user",
+			"call",
+			"callback",
+			"stopPro",
+			"stopProp",
+			"ref_Z",
+			"ref_Y",
+			"ref_X",
+			"X",
+			"points",
+			"::",
+			"controller",
+			"get_month",
+			"getMonth",
+			"points",
+			"subgoal",
+			"width",
+			"nested",
+			"completed",
+			"sub_messages",
+			"message",
+			"messages",
+			"new_go",
+			"\\#",
+			"#",
+			"n",
+			"#",
+			"ffffffffffffffffLLLLLGGGGGGLGLGGGGDGGGLffffffffffjjjjjjjjjjjjjjjfffffffffffjjjjjjffffLfffffjjjjjjttt",
+			"return",
+			"break",
+			"Reading into ",
+			"HERE",
+			"f_nice",
+			"f_info",
+			"ls",
+			"f_ls",
+			"jobs",
+			"reading into",
+			"read_file",
+			"get_subarray"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"color-font",
+			"color-accent",
+			"@",
+			"\\#",
+			"body",
+			"main_program"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/_posts/2013-03-21-hello-world.markdown",
+					"settings":
+					{
+						"buffer_size": 3334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								996,
+								996
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"wrap_width": 80
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/_posts/2013-03-24-drafts",
+					"settings":
+					{
+						"buffer_size": 720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/_posts/2013-03-22-smooth-scrolling-for-horizontalscrollview.markdown",
+					"settings":
+					{
+						"buffer_size": 1780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/_posts/2013-03-23-plan-your-free-time.markdown",
+					"settings":
+					{
+						"buffer_size": 1244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"views/layout.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true
+}

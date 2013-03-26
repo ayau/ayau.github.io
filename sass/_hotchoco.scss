@@ -21,6 +21,14 @@ hr {
 	margin: 25px;
 }
 
+h2 {
+	font-size: 22px;
+}
+
+h3 {
+	font-size: 16px;
+}
+
 ::selection, ::-moz-selection, ::-webkit-selection {
   background-color: $color-accent;
   color: $color-background;
@@ -134,7 +142,6 @@ hr {
 					}
 				}
 				h2 {
-					font-size: 1.3em;
 					color: #574C4C;
 					border-bottom: none;
 				}
@@ -217,6 +224,20 @@ a:hover {
 }
 
 @media screen and (max-width: 768px){
+	h1, article h1.title {
+		font-size: 22px;
+	}
+	h2 {
+		font-size: 18px;
+	}
+	h3{
+		font-size: 13px;
+	}
+	p {
+		font-size: 13px;
+		text-align: left;
+	}
+
 	.container {
 		.credit-box {
 			display: none;
